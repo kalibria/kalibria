@@ -16,7 +16,7 @@
 ### :woman_technologist: About Me :
  - 📄 Check my CV to see my skills
  - 📫 Reach me by LinkedIn and email
- - 🌍 I speak English
+ 
 
 <img src="https://komarev.com/ghpvc/?username=kalibria&style=flat-square&color=blue" alt="" align="center"/>
 
