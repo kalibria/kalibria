@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Mariya
+# Hi there 👋, I'm Maryia
 ## Frontend/Full-Stack developer
 <div id="badges" >
   <a href="https://www.linkedin.com/in/mariya-kushlianskaya/">
